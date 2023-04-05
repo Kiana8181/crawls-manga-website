@@ -40,13 +40,13 @@ To use this script, follow these steps:
 
 1. Clone this repository:
 
- `https://github.com/Kiana8181/crawls-manga-website.git`
+`https://github.com/Kiana8181/crawls-manga-website.git`
 
 2. Open the terminal in the cloned repository.
 
 3. Run the following command to start the script:
 
- `python main.py`
+`python main.py`
 
 
 The script will start crawling the website and downloading the images. Once it is done, it will convert the images to PDF format, merge them into a single PDF document, and save it to the local disk.
