@@ -46,7 +46,7 @@ To use this script, follow these steps:
 
 3. Run the following command to start the script:
 
-`python image_to_pdf_converter.py`
+`python main.py`
 
 
 The script will start crawling the website and downloading the images. Once it is done, it will convert the images to PDF format, merge them into a single PDF document, and save it to the local disk.
